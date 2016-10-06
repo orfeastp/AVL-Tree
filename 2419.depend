@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1430921249 source:c:\users\pr-as_000\documents\code blocks\c++\papadopoulos\1o project\2419\main.cpp
+	"ClassInvertedIndex.h"
+	<iostream>
+
+1430921249 c:\users\pr-as_000\documents\code blocks\c++\papadopoulos\1o project\2419\include\classinvertedindex.h
+	<fstream>
+
+1430921218 source:c:\users\pr-as_000\documents\code blocks\c++\papadopoulos\1o project\2419\src\classinvertedindex.cpp
+	"classinvertedindex.h"
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+
+1430921249 source:c:\users\pr-as_000\contacts\documents\code blocks\c++\papadopoulos\1o project\2419\main.cpp
+	"ClassInvertedIndex.h"
+	<iostream>
+
+1430921249 c:\users\pr-as_000\contacts\documents\code blocks\c++\papadopoulos\1o project\2419\include\classinvertedindex.h
+	<fstream>
+
+1430921218 source:c:\users\pr-as_000\contacts\documents\code blocks\c++\papadopoulos\1o project\2419\src\classinvertedindex.cpp
+	"classinvertedindex.h"
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+
